@@ -1,6 +1,0 @@
-<html>
-Equipe T-13
-
-texto texto 
-texto texto
-</html>
