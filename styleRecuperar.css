@@ -24,7 +24,11 @@ body{
 .btn:hover{
     transition: .8s ease-in-out;
     transform: scale(1.1);
-    background-color: rgba(151, 12, 58, 0.8)
+    background-color: rgba(151, 12, 58, 0.8);
+}
+
+.btn:active{
+    background-color: rgba(151, 12, 58, 0.8);
 }
   
 footer{
