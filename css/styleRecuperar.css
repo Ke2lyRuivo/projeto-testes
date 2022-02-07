@@ -19,6 +19,7 @@ body{
 .btn{
     border: none;
     background-color:  rgba(245, 59, 121, 1);
+    width: 50%;
 }
 
 .btn:hover{
